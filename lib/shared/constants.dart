@@ -6,4 +6,6 @@ class Constants {
   static String messagingSenderId = "684168797111";
   static String projectId = "clonewebdev";
   final primaryColor = Color.fromARGB(255, 245, 155, 98);
+   
+    final primaryButtonColor = Color.fromRGBO(182, 240, 156, 100);
 }
